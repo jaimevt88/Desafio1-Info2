@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Esto es una prueba
 Esto tambien
+=======
+>>>>>>> parent of a6c9ad4 (segundo commit)
