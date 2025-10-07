@@ -1,2 +1,2 @@
 Este es un archivo readme
-Cambio hecho por x
+Cambios hechos pro X y Y
