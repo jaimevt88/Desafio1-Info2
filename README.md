@@ -1,3 +1,3 @@
 Este es un archivo readme
 Cambios hechos pro X y Y
-Cambio hecho por martes1
+Cambios hechos por m1 y m2
